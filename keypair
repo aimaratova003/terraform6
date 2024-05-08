@@ -1,0 +1,4 @@
+resource "aws_key_pair" "terraform6" {
+  key_name_prefix = "terraform6"
+  public_key      = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDNfVBan7EKNCaNdz1ZF72VXMQlDJdpOELSDRh5c2jP+a6sqrhn4CDhEXHZTW5Kwtd+z9myYbkzzvu7FZ01nwcPRBtkSJVwTukaHVdGcc3Uj+y9uE9KAS9FsIBdNEFtivbthyIDmXiwhMhag/D2EFJu71e9rX+tmH4VcBwal2wpA0rC6oZ6jIoliX+idK+k2XdZNlp6Ws88/wMf03/OlsFv2zRQJhaKN7w7qwRyQpY+dFTD5lRwQI9F3PzKJSuwdoiLo5CucI/MGVbhwVXF8NqZN2jlgwXd/6jqk4Ux2zL9LbU+djSWYRDuoslNWq5wU3Sczx+/PBYFYvCt/EesYWvqEM+m7Z/7aqGF511dK75TZyI1G2FjYfOSpN3DwJYtY/BSuxpb/Ole5xVq0rsgxoN+AZ3+qsHjsnH/xx2S4hW6EhILl+njP4eO7/Oz1GDV7XOAZwNPWw9nAiZZlC905a2zPWKwp6zhwK3p/YWr4C8FSzX6WPnyrr57GMvbQ+8feVs= 3am@Aigerims-MacBook-Pro.local"
+}
